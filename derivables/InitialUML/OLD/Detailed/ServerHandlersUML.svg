@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="684px" preserveAspectRatio="none" style="width:819px;height:684px;background:#FFFFFF;" version="1.1" viewBox="0 0 819 684" width="819px" zoomAndPan="magnify"><defs><filter height="300%" id="fb1j3xf4ze5s7" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" text-decoration="underline" textLength="248" x="279" y="16.7225">HANDLERS's Class Diagram</text><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="0" x="406" y="37.6938"/><!--MD5=[432dd831305d7709bed0fe1447e3cfc7]
+cluster it.polimi.ingsw--><polygon fill="#FFFFFF" filter="url(#fb1j3xf4ze5s7)" points="16,47.9426,140,47.9426,147,70.2395,802,70.2395,802,660.9426,16,660.9426,16,47.9426" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="16" x2="147" y1="70.2395" y2="70.2395"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="118" x="20" y="62.9377">it.polimi.ingsw</text><!--MD5=[6ff9cca172c9c23be7720fa07ee26538]
+cluster it.polimi.ingsw.server--><polygon fill="#FFFFFF" filter="url(#fb1j3xf4ze5s7)" points="40,90.9426,97,90.9426,104,113.2395,778,113.2395,778,636.9426,40,636.9426,40,90.9426" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="40" x2="104" y1="113.2395" y2="113.2395"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="51" x="44" y="105.9377">server</text><!--MD5=[e71a63635fd684f543db9fddf7b7ffa0]
+cluster it.polimi.ingsw.server.Controller--><polygon fill="#FFFFFF" filter="url(#fb1j3xf4ze5s7)" points="64,133.9426,151,133.9426,158,156.2395,754,156.2395,754,612.9426,64,612.9426,64,133.9426" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="64" x2="158" y1="156.2395" y2="156.2395"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="81" x="68" y="148.9377">Controller</text><!--MD5=[cba60a30e6164ae56187bd67aa084964]
+cluster it.polimi.ingsw.server.Controller.Handlers--><polygon fill="#FFFFFF" filter="url(#fb1j3xf4ze5s7)" points="88,176.9426,165,176.9426,172,199.2395,730,199.2395,730,588.9426,88,588.9426,88,176.9426" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="88" x2="172" y1="199.2395" y2="199.2395"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="71" x="92" y="191.9377">Handlers</text><!--MD5=[22f4d52c99f987efdc14e86cc26bbeaf]
+class it.polimi.ingsw.server.Controller.Handlers.DevelopmentSlotsHandler--><rect codeLine="8" fill="#FEFECE" filter="url(#fb1j3xf4ze5s7)" height="163.2422" id="it.polimi.ingsw.server.Controller.Handlers.DevelopmentSlotsHandler" style="stroke:#A80036;stroke-width:1.5;" width="211" x="142.5" y="218.4426"/><ellipse cx="167.85" cy="234.4426" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M170.3188,240.3176 Q169.7406,240.6301 169.1,240.7864 Q168.4594,240.9426 167.7563,240.9426 Q165.2406,240.9426 163.9281,239.2708 Q162.6156,237.5989 162.6156,234.4426 Q162.6156,231.2864 163.9281,229.6145 Q165.2406,227.9426 167.7563,227.9426 Q168.4594,227.9426 169.1,228.0989 Q169.7563,228.2551 170.3188,228.5676 L170.3188,231.3645 Q169.6781,230.7864 169.0844,230.5208 Q168.5063,230.2551 167.8656,230.2551 Q166.5219,230.2551 165.8344,231.3176 Q165.1625,232.3645 165.1625,234.4426 Q165.1625,236.5208 165.8344,237.5833 Q166.5219,238.6301 167.8656,238.6301 Q168.5063,238.6301 169.0844,238.3645 Q169.6781,238.0989 170.3188,237.5208 L170.3188,240.3176 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="156" x="184.15" y="238.5969">DevelopmentSlotsHandler</text><line style="stroke:#A80036;stroke-width:1.5;" x1="143.5" x2="352.5" y1="250.4426" y2="250.4426"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="150.5" y="258.4426"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="185" x="162.5" y="264.6531">cardToInsert : DevelopmentCard</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="150.5" y="271.2473"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="123" x="162.5" y="277.4578">chosenCardColor : int</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="150.5" y="284.052"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="123" x="162.5" y="290.2625">chosenCardLevel : int</text><line style="stroke:#A80036;stroke-width:1.5;" x1="143.5" x2="352.5" y1="296.8567" y2="296.8567"/><ellipse cx="153.5" cy="307.8567" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="99" x="162.5" y="311.0671">getCardToInsert()</text><ellipse cx="153.5" cy="320.6614" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="125" x="162.5" y="323.8718">getChosenCardColor()</text><ellipse cx="153.5" cy="333.4661" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="125" x="162.5" y="336.6765">getChosenCardLevel()</text><ellipse cx="153.5" cy="346.2708" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="98" x="162.5" y="349.4812">setCardToInsert()</text><ellipse cx="153.5" cy="359.0754" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="124" x="162.5" y="362.2859">setChosenCardColor()</text><ellipse cx="153.5" cy="371.8801" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="124" x="162.5" y="375.0906">setChosenCardLevel()</text><!--MD5=[8c54daf4d8fc95c73d25349cb09705a3]
+class it.polimi.ingsw.server.Controller.Handlers.FaithTrackHandler--><rect codeLine="29" fill="#FEFECE" filter="url(#fb1j3xf4ze5s7)" height="176.0469" id="it.polimi.ingsw.server.Controller.Handlers.FaithTrackHandler" style="stroke:#A80036;stroke-width:1.5;" width="239" x="388.5" y="211.9426"/><ellipse cx="448.75" cy="227.9426" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M451.2188,233.8176 Q450.6406,234.1301 450,234.2864 Q449.3594,234.4426 448.6563,234.4426 Q446.1406,234.4426 444.8281,232.7708 Q443.5156,231.0989 443.5156,227.9426 Q443.5156,224.7864 444.8281,223.1145 Q446.1406,221.4426 448.6563,221.4426 Q449.3594,221.4426 450,221.5989 Q450.6563,221.7551 451.2188,222.0676 L451.2188,224.8645 Q450.5781,224.2864 449.9844,224.0208 Q449.4063,223.7551 448.7656,223.7551 Q447.4219,223.7551 446.7344,224.8176 Q446.0625,225.8645 446.0625,227.9426 Q446.0625,230.0208 446.7344,231.0833 Q447.4219,232.1301 448.7656,232.1301 Q449.4063,232.1301 449.9844,231.8645 Q450.5781,231.5989 451.2188,231.0208 L451.2188,233.8176 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="110" x="469.25" y="232.0969">FaithTrackHandler</text><line style="stroke:#A80036;stroke-width:1.5;" x1="389.5" x2="626.5" y1="243.9426" y2="243.9426"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="396.5" y="251.9426"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="122" x="408.5" y="258.1531">controller : Controller</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="396.5" y="264.7473"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="211" x="408.5" y="270.9578">faithPointsGivenToCurrentPlayer : int</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="396.5" y="277.552"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="206" x="408.5" y="283.7625">faithPointsGivenToOtherPlayers : int</text><line style="stroke:#A80036;stroke-width:1.5;" x1="389.5" x2="626.5" y1="290.3567" y2="290.3567"/><ellipse cx="399.5" cy="301.3567" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="183" x="408.5" y="304.5671">addFaithPointsToCurrentPlayer()</text><ellipse cx="399.5" cy="314.1614" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="178" x="408.5" y="317.3718">addFaithPointsToOtherPlayers()</text><ellipse cx="399.5" cy="326.9661" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="213" x="408.5" y="330.1765">getFaithPointsGivenToCurrentPlayer()</text><ellipse cx="399.5" cy="339.7708" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="208" x="408.5" y="342.9812">getFaithPointsGivenToOtherPlayers()</text><ellipse cx="399.5" cy="352.5754" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="37" x="408.5" y="355.7859">reset()</text><ellipse cx="399.5" cy="365.3801" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="81" x="408.5" y="368.5906">setController()</text><ellipse cx="399.5" cy="378.1848" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="127" x="408.5" y="381.3953">updatePlayerPosition()</text><!--MD5=[1165c2726b422eef11c02d6928ee6239]
+class it.polimi.ingsw.server.Controller.Handlers.StrongboxHandler--><rect codeLine="51" fill="#FEFECE" filter="url(#fb1j3xf4ze5s7)" height="112.0234" id="it.polimi.ingsw.server.Controller.Handlers.StrongboxHandler" style="stroke:#A80036;stroke-width:1.5;" width="287" x="104.5" y="454.4426"/><ellipse cx="188.75" cy="470.4426" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M191.2188,476.3176 Q190.6406,476.6301 190,476.7864 Q189.3594,476.9426 188.6563,476.9426 Q186.1406,476.9426 184.8281,475.2708 Q183.5156,473.5989 183.5156,470.4426 Q183.5156,467.2864 184.8281,465.6145 Q186.1406,463.9426 188.6563,463.9426 Q189.3594,463.9426 190,464.0989 Q190.6563,464.2551 191.2188,464.5676 L191.2188,467.3645 Q190.5781,466.7864 189.9844,466.5208 Q189.4063,466.2551 188.7656,466.2551 Q187.4219,466.2551 186.7344,467.3176 Q186.0625,468.3645 186.0625,470.4426 Q186.0625,472.5208 186.7344,473.5833 Q187.4219,474.6301 188.7656,474.6301 Q189.4063,474.6301 189.9844,474.3645 Q190.5781,474.0989 191.2188,473.5208 L191.2188,476.3176 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="110" x="209.25" y="474.5969">StrongboxHandler</text><line style="stroke:#A80036;stroke-width:1.5;" x1="105.5" x2="390.5" y1="486.4426" y2="486.4426"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="112.5" y="494.4426"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="261" x="124.5" y="500.6531">toInsert : EnumMap&lt;ResourceEnum, Integer&gt;</text><line style="stroke:#A80036;stroke-width:1.5;" x1="105.5" x2="390.5" y1="507.2473" y2="507.2473"/><ellipse cx="115.5" cy="518.2473" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="74" x="124.5" y="521.4578">finallyInsert()</text><ellipse cx="115.5" cy="531.052" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="40" x="124.5" y="534.2625">insert()</text><ellipse cx="115.5" cy="543.8567" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="40" x="124.5" y="547.0671">insert()</text><rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="112.5" y="553.6614"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="138" x="124.5" y="559.8718">resetWaitingResources()</text><!--MD5=[34c8a1fe17424b2b233511b5a5dd8e2f]
+class it.polimi.ingsw.server.Controller.Handlers.WarehouseHandler--><rect codeLine="68" fill="#FEFECE" filter="url(#fb1j3xf4ze5s7)" height="124.8281" id="it.polimi.ingsw.server.Controller.Handlers.WarehouseHandler" style="stroke:#A80036;stroke-width:1.5;" width="287" x="426.5" y="447.9426"/><ellipse cx="508.75" cy="463.9426" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M511.2188,469.8176 Q510.6406,470.1301 510,470.2864 Q509.3594,470.4426 508.6563,470.4426 Q506.1406,470.4426 504.8281,468.7708 Q503.5156,467.0989 503.5156,463.9426 Q503.5156,460.7864 504.8281,459.1145 Q506.1406,457.4426 508.6563,457.4426 Q509.3594,457.4426 510,457.5989 Q510.6563,457.7551 511.2188,458.0676 L511.2188,460.8645 Q510.5781,460.2864 509.9844,460.0208 Q509.4063,459.7551 508.7656,459.7551 Q507.4219,459.7551 506.7344,460.8176 Q506.0625,461.8645 506.0625,463.9426 Q506.0625,466.0208 506.7344,467.0833 Q507.4219,468.1301 508.7656,468.1301 Q509.4063,468.1301 509.9844,467.8645 Q510.5781,467.5989 511.2188,467.0208 L511.2188,469.8176 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="114" x="529.25" y="468.0969">WarehouseHandler</text><line style="stroke:#A80036;stroke-width:1.5;" x1="427.5" x2="712.5" y1="479.9426" y2="479.9426"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="434.5" y="487.9426"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="261" x="446.5" y="494.1531">toInsert : EnumMap&lt;ResourceEnum, Integer&gt;</text><line style="stroke:#A80036;stroke-width:1.5;" x1="427.5" x2="712.5" y1="500.7473" y2="500.7473"/><ellipse cx="437.5" cy="511.7473" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="117" x="446.5" y="514.9578">completelyRemove()</text><ellipse cx="437.5" cy="524.552" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="72" x="446.5" y="527.7625">getToInsert()</text><ellipse cx="437.5" cy="537.3567" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="72" x="446.5" y="540.5671">isNotEmpty()</text><ellipse cx="437.5" cy="550.1614" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="52" x="446.5" y="553.3718">remove()</text><ellipse cx="437.5" cy="562.9661" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="71" x="446.5" y="566.1765">setToInsert()</text><!--MD5=[0d3ebc5f2523b7584f007f3479225e9a]
+link it.polimi.ingsw.server.Controller.Handlers.DevelopmentSlotsHandler to it.polimi.ingsw.server.Controller.Handlers.FaithTrackHandler--><!--MD5=[2f693527d048095100a9fabf02c8efbd]
+link it.polimi.ingsw.server.Controller.Handlers.DevelopmentSlotsHandler to it.polimi.ingsw.server.Controller.Handlers.StrongboxHandler--><!--MD5=[fa8bbaa1e6f14208e7764b63cabfd90a]
+link it.polimi.ingsw.server.Controller.Handlers.StrongboxHandler to it.polimi.ingsw.server.Controller.Handlers.WarehouseHandler--><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="0" x="806" y="676.2249"/><!--MD5=[434c84b566f7e75b49b649b75d48b51f]
+@startuml
+
+title __HANDLERS's Class Diagram__\n
+
+  namespace it.polimi.ingsw {
+    namespace server {
+      namespace Controller {
+        namespace Handlers {
+          class it.polimi.ingsw.server.Controller.Handlers.DevelopmentSlotsHandler {
+              {static} - cardToInsert : DevelopmentCard
+              {static} - chosenCardColor : int
+              {static} - chosenCardLevel : int
+              {static} + getCardToInsert()
+              {static} + getChosenCardColor()
+              {static} + getChosenCardLevel()
+              {static} + setCardToInsert()
+              {static} + setChosenCardColor()
+              {static} + setChosenCardLevel()
+          }
+        }
+      }
+    }
+  }
+  
+
+  namespace it.polimi.ingsw {
+    namespace server {
+      namespace Controller {
+        namespace Handlers {
+          class it.polimi.ingsw.server.Controller.Handlers.FaithTrackHandler {
+              {static} - controller : Controller
+              {static} - faithPointsGivenToCurrentPlayer : int
+              {static} - faithPointsGivenToOtherPlayers : int
+              {static} + addFaithPointsToCurrentPlayer()
+              {static} + addFaithPointsToOtherPlayers()
+              {static} + getFaithPointsGivenToCurrentPlayer()
+              {static} + getFaithPointsGivenToOtherPlayers()
+              {static} + reset()
+              {static} + setController()
+              {static} + updatePlayerPosition()
+          }
+        }
+      }
+    }
+  }
+  
+
+  namespace it.polimi.ingsw {
+    namespace server {
+      namespace Controller {
+        namespace Handlers {
+          class it.polimi.ingsw.server.Controller.Handlers.StrongboxHandler {
+              {static} - toInsert : EnumMap<ResourceEnum, Integer>
+              {static} + finallyInsert()
+              {static} + insert()
+              {static} + insert()
+              {static} - resetWaitingResources()
+          }
+        }
+      }
+    }
+  }
+  
+
+  namespace it.polimi.ingsw {
+    namespace server {
+      namespace Controller {
+        namespace Handlers {
+          class it.polimi.ingsw.server.Controller.Handlers.WarehouseHandler {
+              {static} - toInsert : EnumMap<ResourceEnum, Integer>
+              {static} + completelyRemove()
+              {static} + getToInsert()
+              {static} + isNotEmpty()
+              {static} + remove()
+              {static} + setToInsert()
+          }
+        }
+      }
+    }
+  }
+  
+
+
+
+right footer
+
+endfooter
+
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 14:40:07 CEST 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: Dynamic Code Evolution 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

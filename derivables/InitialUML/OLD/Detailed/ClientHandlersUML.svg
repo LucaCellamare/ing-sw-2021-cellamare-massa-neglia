@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="626px" preserveAspectRatio="none" style="width:770px;height:626px;background:#FFFFFF;" version="1.1" viewBox="0 0 770 626" width="770px" zoomAndPan="magnify"><defs><filter height="300%" id="f1elq5alctatkp" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" text-decoration="underline" textLength="248" x="254.5" y="16.7225">HANDLERS's Class Diagram</text><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="0" x="381.5" y="37.6938"/><!--MD5=[432dd831305d7709bed0fe1447e3cfc7]
+cluster it.polimi.ingsw--><polygon fill="#FFFFFF" filter="url(#f1elq5alctatkp)" points="16,47.9426,140,47.9426,147,70.2395,753,70.2395,753,567.9426,16,567.9426,16,47.9426" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="16" x2="147" y1="70.2395" y2="70.2395"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="118" x="20" y="62.9377">it.polimi.ingsw</text><!--MD5=[1254e979b773d7dd91b2a0f20daaeac0]
+cluster it.polimi.ingsw.client--><polygon fill="#FFFFFF" filter="url(#f1elq5alctatkp)" points="40,90.9426,91,90.9426,98,113.2395,729,113.2395,729,543.9426,40,543.9426,40,90.9426" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="40" x2="98" y1="113.2395" y2="113.2395"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="45" x="44" y="105.9377">client</text><!--MD5=[d0e35fffc7c3cab3ba346644c6392426]
+cluster it.polimi.ingsw.client.handlers--><polygon fill="#FFFFFF" filter="url(#f1elq5alctatkp)" points="64,133.9426,139,133.9426,146,156.2395,705,156.2395,705,519.9426,64,519.9426,64,133.9426" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="64" x2="146" y1="156.2395" y2="156.2395"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="69" x="68" y="148.9377">handlers</text><!--MD5=[215eff94d0ad5e52a4dfd1ce3231be15]
+class it.polimi.ingsw.client.handlers.PlayerHandler--><rect codeLine="7" fill="#FEFECE" filter="url(#f1elq5alctatkp)" height="176.0469" id="it.polimi.ingsw.client.handlers.PlayerHandler" style="stroke:#A80036;stroke-width:1.5;" width="302" x="80" y="168.9426"/><ellipse cx="185.25" cy="184.9426" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M187.7188,190.8176 Q187.1406,191.1301 186.5,191.2864 Q185.8594,191.4426 185.1563,191.4426 Q182.6406,191.4426 181.3281,189.7708 Q180.0156,188.0989 180.0156,184.9426 Q180.0156,181.7864 181.3281,180.1145 Q182.6406,178.4426 185.1563,178.4426 Q185.8594,178.4426 186.5,178.5989 Q187.1563,178.7551 187.7188,179.0676 L187.7188,181.8645 Q187.0781,181.2864 186.4844,181.0208 Q185.9063,180.7551 185.2656,180.7551 Q183.9219,180.7551 183.2344,181.8176 Q182.5625,182.8645 182.5625,184.9426 Q182.5625,187.0208 183.2344,188.0833 Q183.9219,189.1301 185.2656,189.1301 Q185.9063,189.1301 186.4844,188.8645 Q187.0781,188.5989 187.7188,188.0208 L187.7188,190.8176 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="83" x="205.75" y="189.0969">PlayerHandler</text><line style="stroke:#A80036;stroke-width:1.5;" x1="81" x2="381" y1="200.9426" y2="200.9426"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="88" y="208.9426"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="213" x="100" y="215.1531">alreadyProductionActivated : boolean</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="88" y="221.7473"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="255" x="100" y="227.9578">discountLeaderAbility : List&lt;ResourceEnum&gt;</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="88" y="234.552"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="276" x="100" y="240.7625">whiteMarbleLeaderAbility : List&lt;ResourceEnum&gt;</text><line style="stroke:#A80036;stroke-width:1.5;" x1="81" x2="381" y1="247.3567" y2="247.3567"/><ellipse cx="91" cy="258.3567" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="88" x="100" y="261.5671">PlayerHandler()</text><ellipse cx="91" cy="271.1614" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="148" x="100" y="274.3718">getDiscountLeaderAbility()</text><ellipse cx="91" cy="283.9661" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="170" x="100" y="287.1765">getWhiteMarbleLeaderAbility()</text><ellipse cx="91" cy="296.7708" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="174" x="100" y="299.9812">isAlreadyProductionActivated()</text><ellipse cx="91" cy="309.5754" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="182" x="100" y="312.7859">setAlreadyProductionActivated()</text><ellipse cx="91" cy="322.3801" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="147" x="100" y="325.5906">setDiscountLeaderAbility()</text><ellipse cx="91" cy="335.1848" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="169" x="100" y="338.3953">setWhiteMarbleLeaderAbility()</text><!--MD5=[9fb7e2afedad49acaacc43a10d2a6bb6]
+class it.polimi.ingsw.client.handlers.ProductionPowersHandler--><rect codeLine="27" fill="#FEFECE" filter="url(#f1elq5alctatkp)" height="137.6328" id="it.polimi.ingsw.client.handlers.ProductionPowersHandler" style="stroke:#A80036;stroke-width:1.5;" width="271" x="417.5" y="187.9426"/><ellipse cx="471.75" cy="203.9426" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M474.2188,209.8176 Q473.6406,210.1301 473,210.2864 Q472.3594,210.4426 471.6563,210.4426 Q469.1406,210.4426 467.8281,208.7708 Q466.5156,207.0989 466.5156,203.9426 Q466.5156,200.7864 467.8281,199.1145 Q469.1406,197.4426 471.6563,197.4426 Q472.3594,197.4426 473,197.5989 Q473.6563,197.7551 474.2188,198.0676 L474.2188,200.8645 Q473.5781,200.2864 472.9844,200.0208 Q472.4063,199.7551 471.7656,199.7551 Q470.4219,199.7551 469.7344,200.8176 Q469.0625,201.8645 469.0625,203.9426 Q469.0625,206.0208 469.7344,207.0833 Q470.4219,208.1301 471.7656,208.1301 Q472.4063,208.1301 472.9844,207.8645 Q473.5781,207.5989 474.2188,207.0208 L474.2188,209.8176 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="154" x="492.25" y="208.0969">ProductionPowersHandler</text><line style="stroke:#A80036;stroke-width:1.5;" x1="418.5" x2="687.5" y1="219.9426" y2="219.9426"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="425.5" y="227.9426"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="243" x="437.5" y="234.1531">currentProductionPower : ProductionPower</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="425.5" y="240.7473"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="245" x="437.5" y="246.9578">productionPowers : List&lt;ProductionPower&gt;</text><line style="stroke:#A80036;stroke-width:1.5;" x1="418.5" x2="687.5" y1="253.552" y2="253.552"/><ellipse cx="428.5" cy="264.552" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="164" x="437.5" y="267.7625">getCurrentProductionPower()</text><ellipse cx="428.5" cy="277.3567" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="127" x="437.5" y="280.5671">getProductionPowers()</text><ellipse cx="428.5" cy="290.1614" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="190" x="437.5" y="293.3718">removeCurrentProductionPower()</text><ellipse cx="428.5" cy="302.9661" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="163" x="437.5" y="306.1765">setCurrentProductionPower()</text><ellipse cx="428.5" cy="315.7708" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="126" x="437.5" y="318.9812">setProductionPowers()</text><!--MD5=[5b0438debb6ae155fe5123be8a14d15c]
+class it.polimi.ingsw.client.handlers.ResourceMarketHandler--><rect codeLine="44" fill="#FEFECE" filter="url(#f1elq5alctatkp)" height="99.2188" id="it.polimi.ingsw.client.handlers.ResourceMarketHandler" style="stroke:#A80036;stroke-width:1.5;" width="287" x="87.5" y="404.9426"/><ellipse cx="155.25" cy="420.9426" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M157.7188,426.8176 Q157.1406,427.1301 156.5,427.2864 Q155.8594,427.4426 155.1563,427.4426 Q152.6406,427.4426 151.3281,425.7708 Q150.0156,424.0989 150.0156,420.9426 Q150.0156,417.7864 151.3281,416.1145 Q152.6406,414.4426 155.1563,414.4426 Q155.8594,414.4426 156.5,414.5989 Q157.1563,414.7551 157.7188,415.0676 L157.7188,417.8645 Q157.0781,417.2864 156.4844,417.0208 Q155.9063,416.7551 155.2656,416.7551 Q153.9219,416.7551 153.2344,417.8176 Q152.5625,418.8645 152.5625,420.9426 Q152.5625,423.0208 153.2344,424.0833 Q153.9219,425.1301 155.2656,425.1301 Q155.9063,425.1301 156.4844,424.8645 Q157.0781,424.5989 157.7188,424.0208 L157.7188,426.8176 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="143" x="175.75" y="425.0969">ResourceMarketHandler</text><line style="stroke:#A80036;stroke-width:1.5;" x1="88.5" x2="373.5" y1="436.9426" y2="436.9426"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="95.5" y="444.9426"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="261" x="107.5" y="451.1531">toInsert : EnumMap&lt;ResourceEnum, Integer&gt;</text><line style="stroke:#A80036;stroke-width:1.5;" x1="88.5" x2="373.5" y1="457.7473" y2="457.7473"/><ellipse cx="98.5" cy="468.7473" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="72" x="107.5" y="471.9578">getToInsert()</text><ellipse cx="98.5" cy="481.552" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="71" x="107.5" y="484.7625">setToInsert()</text><rect fill="#F24D5C" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="95.5" y="491.3567"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" text-decoration="underline" textLength="72" x="107.5" y="497.5671">cleanUpList()</text><!--MD5=[439398ce096ff89f271318b0805cc2f5]
+link it.polimi.ingsw.client.handlers.PlayerHandler to it.polimi.ingsw.client.handlers.ProductionPowersHandler--><!--MD5=[c7c9901f1165730e28d3b6bd7107f086]
+link it.polimi.ingsw.client.handlers.PlayerHandler to it.polimi.ingsw.client.handlers.ResourceMarketHandler--><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="0" x="757" y="583.2249"/><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="0" x="757" y="594.8655"/><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="420" x="337" y="606.5061">PlantUML diagram generated by SketchIt! (https://bitbucket.org/pmesmeur/sketch.it)</text><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="414" x="343" y="618.1467">For more information about this tool, please contact philippe.mesmeur@gmail.com</text><!--MD5=[7696a30eb30a296421b489bccf66c239]
+@startuml
+
+title __HANDLERS's Class Diagram__\n
+
+  namespace it.polimi.ingsw {
+    namespace client {
+      namespace handlers {
+        class it.polimi.ingsw.client.handlers.PlayerHandler {
+            {static} - alreadyProductionActivated : boolean
+            - discountLeaderAbility : List<ResourceEnum>
+            - whiteMarbleLeaderAbility : List<ResourceEnum>
+            + PlayerHandler()
+            + getDiscountLeaderAbility()
+            + getWhiteMarbleLeaderAbility()
+            {static} + isAlreadyProductionActivated()
+            {static} + setAlreadyProductionActivated()
+            + setDiscountLeaderAbility()
+            + setWhiteMarbleLeaderAbility()
+        }
+      }
+    }
+  }
+  
+
+  namespace it.polimi.ingsw {
+    namespace client {
+      namespace handlers {
+        class it.polimi.ingsw.client.handlers.ProductionPowersHandler {
+            {static} - currentProductionPower : ProductionPower
+            {static} - productionPowers : List<ProductionPower>
+            {static} + getCurrentProductionPower()
+            {static} + getProductionPowers()
+            {static} + removeCurrentProductionPower()
+            {static} + setCurrentProductionPower()
+            {static} + setProductionPowers()
+        }
+      }
+    }
+  }
+  
+
+  namespace it.polimi.ingsw {
+    namespace client {
+      namespace handlers {
+        class it.polimi.ingsw.client.handlers.ResourceMarketHandler {
+            {static} - toInsert : EnumMap<ResourceEnum, Integer>
+            {static} + getToInsert()
+            {static} + setToInsert()
+            {static} - cleanUpList()
+        }
+      }
+    }
+  }
+  
+
+
+
+right footer
+
+
+PlantUML diagram generated by SketchIt! (https://bitbucket.org/pmesmeur/sketch.it)
+For more information about this tool, please contact philippe.mesmeur@gmail.com
+endfooter
+
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 14:40:07 CEST 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: Dynamic Code Evolution 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

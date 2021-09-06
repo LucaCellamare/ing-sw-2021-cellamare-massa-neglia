@@ -1,0 +1,386 @@
+[
+  {
+    "path": "Masters of Renaissance_Cards_FRONT_3mmBleed_1-49",
+    "id": 49,
+    "victoryPoints": 2,
+    "requirements": [
+      {
+        "reqType": "card",
+        "cardType": "YELLOW",
+        "cardLevel": "NONE",
+        "quantity": 1
+      },
+      {
+        "reqType": "card",
+        "cardType": "GREEN",
+        "cardLevel": "NONE",
+        "quantity": 1
+      }
+    ],
+    "ability": {
+      "abilityType": "discount",
+      "resource": "SERVANT",
+      "quantity": 1
+    },
+    "isActive": false
+  },
+  {
+    "path": "Masters of Renaissance_Cards_FRONT_3mmBleed_1-50",
+    "id": 50,
+    "victoryPoints": 2,
+    "requirements": [
+      {
+        "reqType": "card",
+        "cardType": "BLUE",
+        "cardLevel": "NONE",
+        "quantity": 1
+      },
+      {
+        "reqType": "card",
+        "cardType": "PURPLE",
+        "cardLevel": "NONE",
+        "quantity": 1
+      }
+    ],
+    "ability": {
+      "abilityType": "discount",
+      "resource": "SHIELD",
+      "quantity": 1
+    },
+    "isActive": false
+  },
+  {
+    "path": "Masters of Renaissance_Cards_FRONT_3mmBleed_1-51",
+    "id": 51,
+    "victoryPoints": 2,
+    "requirements": [
+      {
+        "reqType": "card",
+        "cardType": "GREEN",
+        "cardLevel": "NONE",
+        "quantity": 1
+      },
+      {
+        "reqType": "card",
+        "cardType": "BLUE",
+        "cardLevel": "NONE",
+        "quantity": 1
+      }
+    ],
+    "ability": {
+      "abilityType": "discount",
+      "resource": "STONE",
+      "quantity": 1
+    },
+    "isActive": false
+  },
+  {
+    "path": "Masters of Renaissance_Cards_FRONT_3mmBleed_1-52",
+    "id": 52,
+    "victoryPoints": 2,
+    "requirements": [
+      {
+        "reqType": "card",
+        "cardType": "YELLOW",
+        "cardLevel": "NONE",
+        "quantity": 1
+      },
+      {
+        "reqType": "card",
+        "cardType": "PURPLE",
+        "cardLevel": "NONE",
+        "quantity": 1
+      }
+    ],
+    "ability": {
+      "abilityType": "discount",
+      "resource": "COIN",
+      "quantity": 1
+    },
+    "isActive": false
+  },
+  {
+    "path": "Masters of Renaissance_Cards_FRONT_3mmBleed_1-53",
+    "id": 53,
+    "victoryPoints": 3,
+    "requirements": [
+      {
+        "reqType": "resource",
+        "resourceType": "COIN",
+        "quantity": 5
+      }
+    ],
+    "ability": {
+      "abilityType": "storage",
+      "resource": "STONE",
+      "size": 2
+    },
+    "isActive": false
+  },
+  {
+    "path": "Masters of Renaissance_Cards_FRONT_3mmBleed_1-54",
+    "id": 54,
+    "victoryPoints": 3,
+    "requirements": [
+      {
+        "reqType": "resource",
+        "resourceType": "STONE",
+        "quantity": 5
+      }
+    ],
+    "ability": {
+      "abilityType": "storage",
+      "resource": "SERVANT",
+      "size": 2
+    },
+    "isActive": false
+  },
+  {
+    "path": "Masters of Renaissance_Cards_FRONT_3mmBleed_1-55",
+    "id": 55,
+    "victoryPoints": 3,
+    "requirements": [
+      {
+        "reqType": "resource",
+        "resourceType": "SERVANT",
+        "quantity": 5
+      }
+    ],
+    "ability": {
+      "abilityType": "storage",
+      "resource": "SHIELD",
+      "size": 2
+    },
+    "isActive": false
+  },
+  {
+    "path": "Masters of Renaissance_Cards_FRONT_3mmBleed_1-56",
+    "id": 56,
+    "victoryPoints": 3,
+    "requirements": [
+      {
+        "reqType": "resource",
+        "resourceType": "SHIELD",
+        "quantity": 5
+      }
+    ],
+    "ability": {
+      "abilityType": "storage",
+      "resource": "COIN",
+      "size": 2
+    },
+    "isActive": false
+  },
+  {
+    "path": "Masters of Renaissance_Cards_FRONT_3mmBleed_1-57",
+    "id": 57,
+    "victoryPoints": 5,
+    "requirements": [
+      {
+        "reqType": "card",
+        "cardType": "YELLOW",
+        "cardLevel": "NONE",
+        "quantity": 2
+      },
+      {
+        "reqType": "card",
+        "cardType": "BLUE",
+        "cardLevel": "NONE",
+        "quantity": 1
+      }
+    ],
+    "ability": {
+      "abilityType": "whiteMarble",
+      "resource": "SERVANT"
+    },
+    "isActive": false
+  },
+  {
+    "path": "Masters of Renaissance_Cards_FRONT_3mmBleed_1-58",
+    "id": 58,
+    "victoryPoints": 5,
+    "requirements": [
+      {
+        "reqType": "card",
+        "cardType": "GREEN",
+        "cardLevel": "NONE",
+        "quantity": 2
+      },
+      {
+        "reqType": "card",
+        "cardType": "PURPLE",
+        "cardLevel": "NONE",
+        "quantity": 1
+      }
+    ],
+    "ability": {
+      "abilityType": "whiteMarble",
+      "resource": "SHIELD"
+    },
+    "isActive": false
+  },
+  {
+    "path": "Masters of Renaissance_Cards_FRONT_3mmBleed_1-59",
+    "id": 59,
+    "victoryPoints": 5,
+    "requirements": [
+      {
+        "reqType": "card",
+        "cardType": "BLUE",
+        "cardLevel": "NONE",
+        "quantity": 2
+      },
+      {
+        "reqType": "card",
+        "cardType": "YELLOW",
+        "cardLevel": "NONE",
+        "quantity": 1
+      }
+    ],
+    "ability": {
+      "abilityType": "whiteMarble",
+      "resource": "STONE"
+    },
+    "isActive": false
+  },
+  {
+    "path": "Masters of Renaissance_Cards_FRONT_3mmBleed_1-60",
+    "id": 60,
+    "victoryPoints": 5,
+    "requirements": [
+      {
+        "reqType": "card",
+        "cardType": "PURPLE",
+        "cardLevel": "NONE",
+        "quantity": 2
+      },
+      {
+        "reqType": "card",
+        "cardType": "GREEN",
+        "cardLevel": "NONE",
+        "quantity": 1
+      }
+    ],
+    "ability": {
+      "abilityType": "whiteMarble",
+      "resource": "COIN"
+    },
+    "isActive": false
+  },
+  {
+    "path": "Masters of Renaissance_Cards_FRONT_3mmBleed_1-61",
+    "id": 61,
+    "victoryPoints": 4,
+    "requirements": [
+      {
+        "reqType": "card",
+        "cardType": "YELLOW",
+        "cardLevel": "TWO",
+        "quantity": 1
+      }
+    ],
+    "ability": {
+      "abilityType": "production",
+      "productionPower": {
+        "resourceRequested": [
+          {
+            "resourceType": "SHIELD",
+            "quantity": 1
+          }
+        ],
+        "resourceObtained": {
+          "JOLLY": 1,
+          "FAITH": 1
+        }
+      }
+    },
+    "isActive": false
+  },
+  {
+    "path": "Masters of Renaissance_Cards_FRONT_3mmBleed_1-62",
+    "id": 62,
+    "victoryPoints": 4,
+    "requirements": [
+      {
+        "reqType": "card",
+        "cardType": "BLUE",
+        "cardLevel": "TWO",
+        "quantity": 1
+      }
+    ],
+    "ability": {
+      "abilityType": "production",
+      "productionPower": {
+        "resourceRequested": [
+          {
+            "resourceType": "SERVANT",
+            "quantity": 1
+          }
+        ],
+        "resourceObtained": {
+          "JOLLY": 1,
+          "FAITH": 1
+        }
+      }
+    },
+    "isActive": false
+  },
+  {
+    "path": "Masters of Renaissance_Cards_FRONT_3mmBleed_1-63",
+    "id": 63,
+    "victoryPoints": 4,
+    "requirements": [
+      {
+        "reqType": "card",
+        "cardType": "PURPLE",
+        "cardLevel": "TWO",
+        "quantity": 1
+      }
+    ],
+    "ability": {
+      "abilityType": "production",
+      "productionPower": {
+        "resourceRequested": [
+          {
+            "resourceType": "STONE",
+            "quantity": 1
+          }
+        ],
+        "resourceObtained": {
+          "JOLLY": 1,
+          "FAITH": 1
+        }
+      }
+    },
+    "isActive": false
+  },
+  {
+    "path": "Masters of Renaissance_Cards_FRONT_3mmBleed_1-64",
+    "id": 64,
+    "victoryPoints": 4,
+    "requirements": [
+      {
+        "reqType": "card",
+        "cardType": "GREEN",
+        "cardLevel": "TWO",
+        "quantity": 1
+      }
+    ],
+    "ability": {
+      "abilityType": "production",
+      "productionPower": {
+        "resourceRequested": [
+          {
+            "resourceType": "COIN",
+            "quantity": 1
+          }
+        ],
+        "resourceObtained": {
+          "JOLLY": 1,
+          "FAITH": 1
+        }
+      }
+    },
+    "isActive": false
+  }
+]

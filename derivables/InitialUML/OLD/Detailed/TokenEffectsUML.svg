@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="718px" preserveAspectRatio="none" style="width:487px;height:718px;background:#FFFFFF;" version="1.1" viewBox="0 0 487 718" width="487px" zoomAndPan="magnify"><defs><filter height="300%" id="fjw92xdwx2i8j" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" text-decoration="underline" textLength="288" x="93" y="16.7225">TOKENEFFECTS's Class Diagram</text><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="0" x="240" y="37.6938"/><!--MD5=[432dd831305d7709bed0fe1447e3cfc7]
+cluster it.polimi.ingsw--><polygon fill="#FFFFFF" filter="url(#fjw92xdwx2i8j)" points="16,47.9426,140,47.9426,147,70.2395,470,70.2395,470,546.9426,16,546.9426,16,47.9426" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="16" x2="147" y1="70.2395" y2="70.2395"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="118" x="20" y="62.9377">it.polimi.ingsw</text><!--MD5=[6ff9cca172c9c23be7720fa07ee26538]
+cluster it.polimi.ingsw.server--><polygon fill="#FFFFFF" filter="url(#fjw92xdwx2i8j)" points="40,90.9426,97,90.9426,104,113.2395,446,113.2395,446,522.9426,40,522.9426,40,90.9426" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="40" x2="104" y1="113.2395" y2="113.2395"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="51" x="44" y="105.9377">server</text><!--MD5=[6644f379719c89a69245f782f93ed447]
+cluster it.polimi.ingsw.server.Model--><polygon fill="#FFFFFF" filter="url(#fjw92xdwx2i8j)" points="64,133.9426,119,133.9426,126,156.2395,422,156.2395,422,498.9426,64,498.9426,64,133.9426" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="64" x2="126" y1="156.2395" y2="156.2395"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="49" x="68" y="148.9377">Model</text><!--MD5=[5a6378a197e86655149d130aeed1ea28]
+cluster it.polimi.ingsw.server.Model.TokenEffects--><polygon fill="#FFFFFF" filter="url(#fjw92xdwx2i8j)" points="88,176.9426,198,176.9426,205,199.2395,398,199.2395,398,474.9426,88,474.9426,88,176.9426" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="88" x2="205" y1="199.2395" y2="199.2395"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="104" x="92" y="191.9377">TokenEffects</text><!--MD5=[48f7be51bd0005e6c97bce768131ca54]
+cluster it.polimi.ingsw.server.Model.Enums--><polygon fill="#FFFFFF" filter="url(#fjw92xdwx2i8j)" points="59,595.9426,351,595.9426,358,618.2395,361,618.2395,361,694.9426,59,694.9426,59,595.9426" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="59" x2="358" y1="618.2395" y2="618.2395"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="286" x="63" y="610.9377">it.polimi.ingsw.server.Model.Enums</text><!--MD5=[f57e383e88fa5eec127b45a588222083]
+class it.polimi.ingsw.server.Model.TokenEffects.ActionEffect--><rect codeLine="8" fill="#FEFECE" filter="url(#fjw92xdwx2i8j)" height="60.8047" id="it.polimi.ingsw.server.Model.TokenEffects.ActionEffect" style="stroke:#A80036;stroke-width:1.5;" width="121" x="182.5" y="211.9426"/><ellipse cx="204.7" cy="227.9426" fill="#B4A7E5" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M201.1219,223.7083 L201.1219,221.4426 L208.4969,221.4426 L208.4969,223.7083 L206.0438,223.7083 L206.0438,232.177 L208.4969,232.177 L208.4969,234.4426 L201.1219,234.4426 L201.1219,232.177 L203.5906,232.177 L203.5906,223.7083 L201.1219,223.7083 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="73" x="220.3" y="232.0969">ActionEffect</text><line style="stroke:#A80036;stroke-width:1.5;" x1="183.5" x2="302.5" y1="243.9426" y2="243.9426"/><line style="stroke:#A80036;stroke-width:1.5;" x1="183.5" x2="302.5" y1="251.9426" y2="251.9426"/><ellipse cx="193.5" cy="262.9426" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="95" x="202.5" y="266.1531">useActionEffect()</text><!--MD5=[9a2c55990f47279684a4655a1632baa9]
+class it.polimi.ingsw.server.Model.TokenEffects.DiscardEffect--><rect codeLine="21" fill="#FEFECE" filter="url(#fjw92xdwx2i8j)" height="124.8281" id="it.polimi.ingsw.server.Model.TokenEffects.DiscardEffect" style="stroke:#A80036;stroke-width:1.5;" width="121" x="104.5" y="333.9426"/><ellipse cx="123.55" cy="349.9426" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M126.0188,355.8176 Q125.4406,356.1301 124.8,356.2864 Q124.1594,356.4426 123.4563,356.4426 Q120.9406,356.4426 119.6281,354.7708 Q118.3156,353.0989 118.3156,349.9426 Q118.3156,346.7864 119.6281,345.1145 Q120.9406,343.4426 123.4563,343.4426 Q124.1594,343.4426 124.8,343.5989 Q125.4563,343.7551 126.0188,344.0676 L126.0188,346.8645 Q125.3781,346.2864 124.7844,346.0208 Q124.2063,345.7551 123.5656,345.7551 Q122.2219,345.7551 121.5344,346.8176 Q120.8625,347.8645 120.8625,349.9426 Q120.8625,352.0208 121.5344,353.0833 Q122.2219,354.1301 123.5656,354.1301 Q124.2063,354.1301 124.7844,353.8645 Q125.3781,353.5989 126.0188,353.0208 L126.0188,355.8176 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="80" x="138.45" y="354.0969">DiscardEffect</text><line style="stroke:#A80036;stroke-width:1.5;" x1="105.5" x2="224.5" y1="365.9426" y2="365.9426"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="112.5" y="373.9426"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="72" x="124.5" y="380.1531">quantity : int</text><line style="stroke:#A80036;stroke-width:1.5;" x1="105.5" x2="224.5" y1="386.7473" y2="386.7473"/><ellipse cx="115.5" cy="397.7473" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="82" x="124.5" y="400.9578">DiscardEffect()</text><ellipse cx="115.5" cy="410.552" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="83" x="124.5" y="413.7625">getColorCard()</text><ellipse cx="115.5" cy="423.3567" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="74" x="124.5" y="426.5671">getQuantity()</text><ellipse cx="115.5" cy="436.1614" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="52" x="124.5" y="439.3718">toString()</text><ellipse cx="115.5" cy="448.9661" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="95" x="124.5" y="452.1765">useActionEffect()</text><!--MD5=[9fb6cc5f38e7f46a01be358fa286b732]
+class it.polimi.ingsw.server.Model.TokenEffects.FaithAdvance--><rect codeLine="39" fill="#FEFECE" filter="url(#fjw92xdwx2i8j)" height="112.0234" id="it.polimi.ingsw.server.Model.TokenEffects.FaithAdvance" style="stroke:#A80036;stroke-width:1.5;" width="121" x="260.5" y="340.4426"/><ellipse cx="278.65" cy="356.4426" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M281.1188,362.3176 Q280.5406,362.6301 279.9,362.7864 Q279.2594,362.9426 278.5563,362.9426 Q276.0406,362.9426 274.7281,361.2708 Q273.4156,359.5989 273.4156,356.4426 Q273.4156,353.2864 274.7281,351.6145 Q276.0406,349.9426 278.5563,349.9426 Q279.2594,349.9426 279.9,350.0989 Q280.5563,350.2551 281.1188,350.5676 L281.1188,353.3645 Q280.4781,352.7864 279.8844,352.5208 Q279.3063,352.2551 278.6656,352.2551 Q277.3219,352.2551 276.6344,353.3176 Q275.9625,354.3645 275.9625,356.4426 Q275.9625,358.5208 276.6344,359.5833 Q277.3219,360.6301 278.6656,360.6301 Q279.3063,360.6301 279.8844,360.3645 Q280.4781,360.0989 281.1188,359.5208 L281.1188,362.3176 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="82" x="293.35" y="360.5969">FaithAdvance</text><line style="stroke:#A80036;stroke-width:1.5;" x1="261.5" x2="380.5" y1="372.4426" y2="372.4426"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="268.5" y="380.4426"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="72" x="280.5" y="386.6531">quantity : int</text><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="268.5" y="393.2473"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="95" x="280.5" y="399.4578">shuffle : boolean</text><line style="stroke:#A80036;stroke-width:1.5;" x1="261.5" x2="380.5" y1="406.052" y2="406.052"/><ellipse cx="271.5" cy="417.052" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="84" x="280.5" y="420.2625">FaithAdvance()</text><ellipse cx="271.5" cy="429.8567" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="52" x="280.5" y="433.0671">toString()</text><ellipse cx="271.5" cy="442.6614" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="95" x="280.5" y="445.8718">useActionEffect()</text><!--MD5=[12648000a58003ca1c2150b0afcfeea0]
+class it.polimi.ingsw.server.Model.Enums.TypeEnum--><rect fill="#FEFECE" filter="url(#fjw92xdwx2i8j)" height="48" id="it.polimi.ingsw.server.Model.Enums.TypeEnum" style="stroke:#A80036;stroke-width:1.5;" width="97" x="116.5" y="630.9426"/><ellipse cx="131.5" cy="646.9426" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M133.9688,652.8176 Q133.3906,653.1301 132.75,653.2864 Q132.1094,653.4426 131.4063,653.4426 Q128.8906,653.4426 127.5781,651.7708 Q126.2656,650.0989 126.2656,646.9426 Q126.2656,643.7864 127.5781,642.1145 Q128.8906,640.4426 131.4063,640.4426 Q132.1094,640.4426 132.75,640.5989 Q133.4063,640.7551 133.9688,641.0676 L133.9688,643.8645 Q133.3281,643.2864 132.7344,643.0208 Q132.1563,642.7551 131.5156,642.7551 Q130.1719,642.7551 129.4844,643.8176 Q128.8125,644.8645 128.8125,646.9426 Q128.8125,649.0208 129.4844,650.0833 Q130.1719,651.1301 131.5156,651.1301 Q132.1563,651.1301 132.7344,650.8645 Q133.3281,650.5989 133.9688,650.0208 L133.9688,652.8176 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="65" x="145.5" y="651.0969">TypeEnum</text><line style="stroke:#A80036;stroke-width:1.5;" x1="117.5" x2="212.5" y1="662.9426" y2="662.9426"/><line style="stroke:#A80036;stroke-width:1.5;" x1="117.5" x2="212.5" y1="670.9426" y2="670.9426"/><!--MD5=[20c18b862d501f8b70d937c561dd26ff]
+reverse link it.polimi.ingsw.server.Model.TokenEffects.ActionEffect to it.polimi.ingsw.server.Model.TokenEffects.DiscardEffect--><path codeLine="52" d="M218.55,291.0826 C211.61,304.6126 203.95,319.5426 196.64,333.7726 " fill="none" id="it.polimi.ingsw.server.Model.TokenEffects.ActionEffect-backto-it.polimi.ingsw.server.Model.TokenEffects.DiscardEffect" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="212.42,287.7126,227.78,273.1126,224.87,294.1026,212.42,287.7126" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[bc6157e741cf01f9ed728f5f43ca653e]
+reverse link it.polimi.ingsw.server.Model.TokenEffects.DiscardEffect to it.polimi.ingsw.server.Model.Enums.TypeEnum--><path codeLine="53" d="M165,472.2126 C165,526.1626 165,595.5026 165,630.9026 " fill="none" id="it.polimi.ingsw.server.Model.TokenEffects.DiscardEffect-backto-it.polimi.ingsw.server.Model.Enums.TypeEnum" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="165,459.2026,161,465.2026,165,471.2026,169,465.2026,165,459.2026" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="62" x="166" y="576.0095">colorCard</text><!--MD5=[4b3f695e07a67fdc87992706f70a86bc]
+reverse link it.polimi.ingsw.server.Model.TokenEffects.ActionEffect to it.polimi.ingsw.server.Model.TokenEffects.FaithAdvance--><path codeLine="54" d="M267.42,291.0326 C275.44,306.6626 284.43,324.1726 292.71,340.3126 " fill="none" id="it.polimi.ingsw.server.Model.TokenEffects.ActionEffect-backto-it.polimi.ingsw.server.Model.TokenEffects.FaithAdvance" style="stroke:#A80036;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="261.13,294.1026,258.22,273.1126,273.58,287.7126,261.13,294.1026" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="0" x="474" y="710.2249"/><!--MD5=[4c1702d89999d3496279250709e9e950]
+@startuml
+
+title __TOKENEFFECTS's Class Diagram__\n
+
+  namespace it.polimi.ingsw {
+    namespace server {
+      namespace Model {
+        namespace TokenEffects {
+          interface it.polimi.ingsw.server.Model.TokenEffects.ActionEffect {
+              {abstract} + useActionEffect()
+          }
+        }
+      }
+    }
+  }
+  
+
+  namespace it.polimi.ingsw {
+    namespace server {
+      namespace Model {
+        namespace TokenEffects {
+          class it.polimi.ingsw.server.Model.TokenEffects.DiscardEffect {
+              - quantity : int
+              + DiscardEffect()
+              + getColorCard()
+              + getQuantity()
+              + toString()
+              + useActionEffect()
+          }
+        }
+      }
+    }
+  }
+  
+
+  namespace it.polimi.ingsw {
+    namespace server {
+      namespace Model {
+        namespace TokenEffects {
+          class it.polimi.ingsw.server.Model.TokenEffects.FaithAdvance {
+              - quantity : int
+              - shuffle : boolean
+              + FaithAdvance()
+              + toString()
+              + useActionEffect()
+          }
+        }
+      }
+    }
+  }
+  
+
+  it.polimi.ingsw.server.Model.TokenEffects.DiscardEffect .up.|> it.polimi.ingsw.server.Model.TokenEffects.ActionEffect
+  it.polimi.ingsw.server.Model.TokenEffects.DiscardEffect o- - it.polimi.ingsw.server.Model.Enums.TypeEnum : colorCard
+  it.polimi.ingsw.server.Model.TokenEffects.FaithAdvance .up.|> it.polimi.ingsw.server.Model.TokenEffects.ActionEffect
+
+
+right footer
+
+endfooter
+
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 14:40:07 CEST 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: Dynamic Code Evolution 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

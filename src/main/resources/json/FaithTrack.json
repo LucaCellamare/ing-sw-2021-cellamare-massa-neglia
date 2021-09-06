@@ -1,0 +1,152 @@
+[
+  {
+    "number": 0,
+    "cellType": "NORMAL",
+    "vaticanReportSection": "NONE",
+    "points": 0
+  },
+  {
+    "number": 1,
+    "cellType": "NORMAL",
+    "vaticanReportSection": "NONE",
+    "points": 0
+  },
+  {
+    "number": 2,
+    "cellType": "NORMAL",
+    "vaticanReportSection": "NONE",
+    "points": 0
+  },
+  {
+    "number": 3,
+    "cellType": "VICTORY_POINTS",
+    "vaticanReportSection": "NONE",
+    "points": 1
+  },
+  {
+    "number": 4,
+    "cellType": "NORMAL",
+    "vaticanReportSection": "NONE",
+    "points": 0
+  },
+  {
+    "number": 5,
+    "cellType": "NORMAL",
+    "vaticanReportSection": "FIRST",
+    "points": 0
+  },
+  {
+    "number": 6,
+    "cellType": "VICTORY_POINTS",
+    "vaticanReportSection": "FIRST",
+    "points": 2
+  },
+  {
+    "number": 7,
+    "cellType": "NORMAL",
+    "vaticanReportSection": "FIRST",
+    "points": 0
+  },
+  {
+    "number": 8,
+    "cellType": "POPE_SPACE",
+    "vaticanReportSection": "FIRST",
+    "points": 0
+  },
+  {
+    "number": 9,
+    "cellType": "VICTORY_POINTS",
+    "vaticanReportSection": "NONE",
+    "points": 4
+  },
+  {
+    "number": 10,
+    "cellType": "NORMAL",
+    "vaticanReportSection": "NONE",
+    "points": 0
+  },
+  {
+    "number": 11,
+    "cellType": "NORMAL",
+    "vaticanReportSection": "NONE",
+    "points": 0
+  },
+  {
+    "number": 12,
+    "cellType": "VICTORY_POINTS",
+    "vaticanReportSection": "SECOND",
+    "points": 6
+  },
+  {
+    "number": 13,
+    "cellType": "NORMAL",
+    "vaticanReportSection": "SECOND",
+    "points": 0
+  },
+  {
+    "number": 14,
+    "cellType": "NORMAL",
+    "vaticanReportSection": "SECOND",
+    "points": 0
+  },
+  {
+    "number": 15,
+    "cellType": "VICTORY_POINTS",
+    "vaticanReportSection": "SECOND",
+    "points": 9
+  },
+  {
+    "number": 16,
+    "cellType": "POPE_SPACE",
+    "vaticanReportSection": "SECOND",
+    "points": 0
+  },
+  {
+    "number": 17,
+    "cellType": "NORMAL",
+    "vaticanReportSection": "NONE",
+    "points": 0
+  },
+  {
+    "number": 18,
+    "cellType": "VICTORY_POINTS",
+    "vaticanReportSection": "NONE",
+    "points": 12
+  },
+  {
+    "number": 19,
+    "cellType": "NORMAL",
+    "vaticanReportSection": "THIRD",
+    "points": 0
+  },
+  {
+    "number": 20,
+    "cellType": "NORMAL",
+    "vaticanReportSection": "THIRD",
+    "points": 0
+  },
+  {
+    "number": 21,
+    "cellType": "VICTORY_POINTS",
+    "vaticanReportSection": "THIRD",
+    "points": 16
+  },
+  {
+    "number": 22,
+    "cellType": "NORMAL",
+    "vaticanReportSection": "THIRD",
+    "points": 0
+  },
+  {
+    "number": 23,
+    "cellType": "NORMAL",
+    "vaticanReportSection": "THIRD",
+    "points": 0
+  },
+  {
+    "number": 24,
+    "cellType": "LAST",
+    "vaticanReportSection": "THIRD",
+    "points": 20
+  }
+]

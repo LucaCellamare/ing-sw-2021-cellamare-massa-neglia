@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>/home/beertorob/IdeaProjects/ing-sw-2021-neglia-cellamare-massa/src/main/java/it/polimi/ingsw/server</OriginalElement>
+  <nodes>
+    <node x="2676.1343618487563" y="2376.0842530701075">it.polimi.ingsw.server.Model.MultiplayerGame</node>
+    <node x="3729.210013300498" y="2223.60065288357">it.polimi.ingsw.server.Model.ActionToken</node>
+    <node x="2790.6339907508163" y="3154.5196642313076">it.polimi.ingsw.server.Controller.SetupController</node>
+    <node x="3843.0275382682844" y="1462.6488419089073">it.polimi.ingsw.server.Model.LeaderAbilities.SpecialAbility</node>
+    <node x="3369.197132547781" y="1676.119267837712">it.polimi.ingsw.server.Model.PersonalBoard.Warehouse.Depot</node>
+    <node x="4376.07992440228" y="1290.9781594901292">it.polimi.ingsw.server.Model.LeaderAbilities.StorageAbility</node>
+    <node x="3005.098342455031" y="2922.5263485154674">it.polimi.ingsw.server.Controller.Controller</node>
+    <node x="3124.229329811887" y="1514.349059536764">it.polimi.ingsw.server.Model.Cards.ProductionPower</node>
+    <node x="4039.091400633671" y="1880.6915902378362">it.polimi.ingsw.server.Model.FaithTrack.Cell</node>
+    <node x="3964.114828013329" y="1997.9782372143636">it.polimi.ingsw.server.Model.FaithTrack.FaithTrack</node>
+    <node x="2290.449876901349" y="1669.8764184672784">it.polimi.ingsw.server.Model.Enums.TypeLineEnum</node>
+    <node x="4098.930353540105" y="1290.9781594901292">it.polimi.ingsw.server.Model.LeaderAbilities.WhiteMarbleAbility</node>
+    <node x="3286.285771307188" y="2390.965024094513">it.polimi.ingsw.server.Model.SinglePlayerGame</node>
+    <node x="3149.729329811887" y="1462.6488419089073">it.polimi.ingsw.server.Model.Enums.LevelEnum</node>
+    <node x="3481.3294289102864" y="1597.6488419089073">it.polimi.ingsw.server.Model.Cards.LeaderCard</node>
+    <node x="2904.9627642623977" y="2503.80094823566">it.polimi.ingsw.server.Controller.Handlers.DevelopmentSlotsHandler</node>
+    <node x="2036.9341089136087" y="2588.411472097">it.polimi.ingsw.server.ClientConnectionHandler</node>
+    <node x="3920.920718214894" y="1764.3557438209236">it.polimi.ingsw.server.Model.Enums.CellTypeEnum</node>
+    <node x="2079.3720198251867" y="2685.411472097">it.polimi.ingsw.server.Server</node>
+    <node x="3168.762964974331" y="1943.6936887921656">it.polimi.ingsw.server.Model.Player</node>
+    <node x="2992.229329811887" y="1462.6488419089073">it.polimi.ingsw.server.Model.Enums.TypeEnum</node>
+    <node x="3679.365638687995" y="1290.9781594901292">it.polimi.ingsw.server.Model.LeaderAbilities.ProductionAbility</node>
+    <node x="3462.3294289102864" y="1806.8600186538165">it.polimi.ingsw.server.Model.PersonalBoard.Strongbox</node>
+    <node x="3903.0004483971816" y="2416.8709777708696">it.polimi.ingsw.server.Model.TokenEffects.DiscardEffect</node>
+    <node x="3107.5718022197843" y="1738.1029068863677">it.polimi.ingsw.server.Model.PersonalBoard.DevelopmentSlots</node>
+    <node x="2700.5040619770343" y="2588.411472097">it.polimi.ingsw.server.Controller.MultiPlayerController</node>
+    <node x="3666.5037128150266" y="2405.5854189336237">it.polimi.ingsw.server.Model.TokenEffects.FaithAdvance</node>
+    <node x="2474.449876901349" y="1669.8764184672784">it.polimi.ingsw.server.Model.Enums.MarbleEnum</node>
+    <node x="1974.034108913609" y="2493.411472097">it.polimi.ingsw.server.VirtualView</node>
+    <node x="3034.1818892414376" y="2366.7288201461215">it.polimi.ingsw.server.Controller.Handlers.StrongboxHandler</node>
+    <node x="3817.865384045096" y="1831.0023317270327">it.polimi.ingsw.server.Model.Enums.TileStatusEnum</node>
+    <node x="2982.098342455031" y="3017.5196642313076">it.polimi.ingsw.server.Controller.PhaseController</node>
+    <node x="3036.4687648767863" y="3154.5196642313076">it.polimi.ingsw.server.Controller.EndGameController</node>
+    <node x="2645.449876901349" y="1854.8764184672784">it.polimi.ingsw.server.Model.Table.ResourceMarket</node>
+    <node x="2311.5636651805344" y="1875.6171304212655">it.polimi.ingsw.server.Model.LeaderCardDeck</node>
+    <node x="2985.598342455031" y="2312.558137727343">it.polimi.ingsw.server.Controller.Handlers.WarehouseHandler</node>
+    <node x="2329.5636651805344" y="2015.5580600031087">it.polimi.ingsw.server.Controller.GamePhase</node>
+    <node x="3349.197132547781" y="1738.1029068863677">it.polimi.ingsw.server.Model.PersonalBoard.Warehouse.Warehouse</node>
+    <node x="3348.5182407658235" y="1444.4825382663084">it.polimi.ingsw.server.Model.Requirements.Requirement</node>
+    <node x="3037.098342455031" y="2085.075547955853">it.polimi.ingsw.server.Model.Game</node>
+    <node x="3791.223148696114" y="2314.593035908597">it.polimi.ingsw.server.Model.TokenEffects.ActionEffect</node>
+    <node x="2737.868452021822" y="1597.6488419089073">it.polimi.ingsw.server.Model.Table.CardMarket.CardDeck</node>
+    <node x="3002.072028343439" y="2445.337090004663">it.polimi.ingsw.server.Controller.Handlers.FaithTrackHandler</node>
+    <node x="3300.285516989911" y="2588.411472097">it.polimi.ingsw.server.Controller.SinglePlayerController</node>
+    <node x="3213.5822561293135" y="1597.6488419089073">it.polimi.ingsw.server.Model.Cards.DevelopmentCard</node>
+    <node x="4039.091400633671" y="1831.0023317270327">it.polimi.ingsw.server.Model.Enums.VaticanSectionEnum</node>
+    <node x="3435.3294289102864" y="1345.1488419089073">it.polimi.ingsw.server.Model.Requirements.CardRequirement</node>
+    <node x="2870.1037385003965" y="1957.5044302813621">it.polimi.ingsw.server.Model.Table.Table</node>
+    <node x="3783.723148696114" y="1899.3557438209236">it.polimi.ingsw.server.Model.FaithTrack.PopeFavorTile</node>
+    <node x="3912.9303535401045" y="1290.9781594901292">it.polimi.ingsw.server.Model.LeaderAbilities.DiscountAbility</node>
+    <node x="3181.5822561293135" y="1345.1488419089073">it.polimi.ingsw.server.Model.Requirements.ResourceRequirement</node>
+    <node x="2700.5040619770343" y="3017.5196642313076">it.polimi.ingsw.server.Model.Enums.ActionEnum</node>
+    <node x="2934.929566870802" y="1229.9957251671074">it.polimi.ingsw.server.Model.Enums.ResourceEnum</node>
+    <node x="2845.1037385003965" y="1669.8764184672784">it.polimi.ingsw.server.Model.Table.CardMarket.CardMarket</node>
+    <node x="2000.0178531585198" y="2782.411472097">it.polimi.ingsw.server.SendMessageToClient</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="it.polimi.ingsw.server.Model.MultiplayerGame" target="it.polimi.ingsw.server.Model.Game" relationship="GENERALIZATION">
+      <point x="-9.917612260323949E-5" y="-16.5" />
+      <point x="2767.6342626726337" y="2219.805223068553" />
+      <point x="3055.598431178773" y="2219.805223068553" />
+      <point x="-29.99991127625799" y="16.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.server.Model.LeaderAbilities.DiscountAbility" target="it.polimi.ingsw.server.Model.LeaderAbilities.SpecialAbility" relationship="REALIZATION">
+      <point x="5.390409114625072E-6" y="16.499682418778093" />
+      <point x="3995.9303589305136" y="1394.1488419089073" />
+      <point x="3918.527358930514" y="1394.1488419089073" />
+      <point x="-1.7933777053258382E-4" y="-16.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.server.Model.SinglePlayerGame" target="it.polimi.ingsw.server.Model.Game" relationship="GENERALIZATION">
+      <point x="29.999745682722732" y="-16.5" />
+      <point x="3411.285516989911" y="2219.805223068553" />
+      <point x="3055.598431178773" y="2219.805223068553" />
+      <point x="-29.99991127625799" y="16.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.server.Model.LeaderAbilities.WhiteMarbleAbility" target="it.polimi.ingsw.server.Model.LeaderAbilities.SpecialAbility" relationship="REALIZATION">
+      <point x="5.390409569372423E-6" y="16.499682418778093" />
+      <point x="4196.930358930515" y="1394.1488419089073" />
+      <point x="3918.527358930514" y="1394.1488419089073" />
+      <point x="-1.7933777053258382E-4" y="-16.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.server.Controller.SinglePlayerController" target="it.polimi.ingsw.server.Controller.Controller" relationship="GENERALIZATION">
+      <point x="0.0" y="16.5" />
+      <point x="3411.285516989911" y="2939.0263485154674" />
+      <point x="64.5" y="0.0" />
+    </edge>
+    <edge source="it.polimi.ingsw.server.Model.LeaderAbilities.StorageAbility" target="it.polimi.ingsw.server.Model.LeaderAbilities.SpecialAbility" relationship="REALIZATION">
+      <point x="4.345282331996714E-4" y="16.499682418778093" />
+      <point x="4455.080358930513" y="1394.1488419089073" />
+      <point x="3918.527358930514" y="1394.1488419089073" />
+      <point x="-1.7933777053258382E-4" y="-16.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.server.Model.TokenEffects.DiscardEffect" target="it.polimi.ingsw.server.Model.TokenEffects.ActionEffect" relationship="REALIZATION">
+      <point x="9.295818290411262E-5" y="-16.5" />
+      <point x="3980.0005413553645" y="2331.482978392663" />
+      <point x="71.99974568272273" y="0.3899424840660686" />
+    </edge>
+    <edge source="it.polimi.ingsw.server.Controller.MultiPlayerController" target="it.polimi.ingsw.server.Controller.Controller" relationship="GENERALIZATION">
+      <point x="-14.9995755750939" y="-16.5" />
+      <point x="2793.0044864019405" y="2939.0263485154674" />
+      <point x="3085.9853132068647" y="2939.0263485154674" />
+      <point x="16.386970751833815" y="16.5" />
+    </edge>
+    <edge source="it.polimi.ingsw.server.Model.TokenEffects.FaithAdvance" target="it.polimi.ingsw.server.Model.TokenEffects.ActionEffect" relationship="REALIZATION">
+      <point x="9.295818290411262E-5" y="16.5" />
+      <point x="3743.0038057732095" y="2331.482978392663" />
+      <point x="71.99974568272273" y="0.3899424840660686" />
+    </edge>
+    <edge source="it.polimi.ingsw.server.Model.Requirements.ResourceRequirement" target="it.polimi.ingsw.server.Model.Requirements.Requirement" relationship="REALIZATION">
+      <point x="110.99974387068642" y="1.5809109254405485E-4" />
+      <point x="3420.0" y="1361.649" />
+      <point x="3420.0" y="1409.149" />
+      <point x="3442.829" y="1409.149" />
+      <point x="18.810759234176658" y="-16.499841908907456" />
+    </edge>
+    <edge source="it.polimi.ingsw.server.Model.Requirements.CardRequirement" target="it.polimi.ingsw.server.Model.Requirements.Requirement" relationship="REALIZATION">
+      <point x="-93.50042891028625" y="1.5809109254405485E-4" />
+      <point x="3420.0" y="1361.649" />
+      <point x="3420.0" y="1409.149" />
+      <point x="3442.829" y="1409.149" />
+      <point x="18.810759234176658" y="-16.499841908907456" />
+    </edge>
+    <edge source="it.polimi.ingsw.server.Model.LeaderAbilities.ProductionAbility" target="it.polimi.ingsw.server.Model.LeaderAbilities.SpecialAbility" relationship="REALIZATION">
+      <point x="-2.7975748116659815E-4" y="16.499682418778093" />
+      <point x="3770.865358930514" y="1394.1488419089073" />
+      <point x="3918.527358930514" y="1394.1488419089073" />
+      <point x="-1.7933777053258382E-4" y="-16.5" />
+    </edge>
+  </edges>
+  <settings layout="Series Parallel" zoom="0.44304407713498595" showDependencies="false" x="3474.6364564841306" y="2205.630966757011" />
+  <SelectedNodes>
+    <node>it.polimi.ingsw.server.Model.Requirements.Requirement</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

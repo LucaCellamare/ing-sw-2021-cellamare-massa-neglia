@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="817px" preserveAspectRatio="none" style="width:656px;height:817px;background:#FFFFFF;" version="1.1" viewBox="0 0 656 817" width="656px" zoomAndPan="magnify"><defs><filter height="300%" id="f8n0jzzsqx1xb" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" text-decoration="underline" textLength="214" x="214.5" y="16.7225">ENUMS's Class Diagram</text><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="0" x="324.5" y="37.6938"/><!--MD5=[432dd831305d7709bed0fe1447e3cfc7]
+cluster it.polimi.ingsw--><polygon fill="#FFFFFF" filter="url(#f8n0jzzsqx1xb)" points="16,47.9426,140,47.9426,147,70.2395,639,70.2395,639,781.9426,16,781.9426,16,47.9426" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="16" x2="147" y1="70.2395" y2="70.2395"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="118" x="20" y="62.9377">it.polimi.ingsw</text><!--MD5=[6ff9cca172c9c23be7720fa07ee26538]
+cluster it.polimi.ingsw.server--><polygon fill="#FFFFFF" filter="url(#f8n0jzzsqx1xb)" points="40,90.9426,97,90.9426,104,113.2395,615,113.2395,615,757.9426,40,757.9426,40,90.9426" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="40" x2="104" y1="113.2395" y2="113.2395"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="51" x="44" y="105.9377">server</text><!--MD5=[6644f379719c89a69245f782f93ed447]
+cluster it.polimi.ingsw.server.Model--><polygon fill="#FFFFFF" filter="url(#f8n0jzzsqx1xb)" points="64,133.9426,119,133.9426,126,156.2395,591,156.2395,591,733.9426,64,733.9426,64,133.9426" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="64" x2="126" y1="156.2395" y2="156.2395"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="49" x="68" y="148.9377">Model</text><!--MD5=[48f7be51bd0005e6c97bce768131ca54]
+cluster it.polimi.ingsw.server.Model.Enums--><polygon fill="#FFFFFF" filter="url(#f8n0jzzsqx1xb)" points="88,176.9426,147,176.9426,154,199.2395,567,199.2395,567,709.9426,88,709.9426,88,176.9426" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="88" x2="154" y1="199.2395" y2="199.2395"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="53" x="92" y="191.9377">Enums</text><!--MD5=[9d8ca07a1366754f6618b19234a9c295]
+class it.polimi.ingsw.server.Model.Enums.ActionEnum--><rect codeLine="8" fill="#FEFECE" filter="url(#f8n0jzzsqx1xb)" height="99.2188" id="it.polimi.ingsw.server.Model.Enums.ActionEnum" style="stroke:#A80036;stroke-width:1.5;" width="135" x="104.5" y="218.4426"/><ellipse cx="132.55" cy="234.4426" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M136.6594,240.9426 L128.9406,240.9426 L128.9406,227.9426 L136.6594,227.9426 L136.6594,230.2083 L131.3938,230.2083 L131.3938,232.9426 L136.1594,232.9426 L136.1594,235.2083 L131.3938,235.2083 L131.3938,238.677 L136.6594,238.677 L136.6594,240.9426 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="74" x="149.45" y="238.5969">ActionEnum</text><line style="stroke:#A80036;stroke-width:1.5;" x1="105.5" x2="238.5" y1="250.4426" y2="250.4426"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="61" x="110.5" y="264.6531">BUY_CARD</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="119" x="110.5" y="277.4578">LEADER_ACTIVATION</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="123" x="110.5" y="290.2625">PRODUCTION_POWER</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="114" x="110.5" y="303.0671">RESOURCE_MARKET</text><line style="stroke:#A80036;stroke-width:1.5;" x1="105.5" x2="238.5" y1="309.6614" y2="309.6614"/><!--MD5=[aa87be0379cac53c198eb7f1c0c93d81]
+class it.polimi.ingsw.server.Model.Enums.CellTypeEnum--><rect codeLine="24" fill="#FEFECE" filter="url(#f8n0jzzsqx1xb)" height="99.2188" id="it.polimi.ingsw.server.Model.Enums.CellTypeEnum" style="stroke:#A80036;stroke-width:1.5;" width="118" x="275" y="218.4426"/><ellipse cx="290" cy="234.4426" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M294.1094,240.9426 L286.3906,240.9426 L286.3906,227.9426 L294.1094,227.9426 L294.1094,230.2083 L288.8438,230.2083 L288.8438,232.9426 L293.6094,232.9426 L293.6094,235.2083 L288.8438,235.2083 L288.8438,238.677 L294.1094,238.677 L294.1094,240.9426 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="86" x="304" y="238.5969">CellTypeEnum</text><line style="stroke:#A80036;stroke-width:1.5;" x1="276" x2="392" y1="250.4426" y2="250.4426"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="28" x="281" y="264.6531">LAST</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="48" x="281" y="277.4578">NORMAL</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="73" x="281" y="290.2625">POPE_SPACE</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="97" x="281" y="303.0671">VICTORY_POINTS</text><line style="stroke:#A80036;stroke-width:1.5;" x1="276" x2="392" y1="309.6614" y2="309.6614"/><!--MD5=[9ddd7617f27c0fd785e7e2336786fa65]
+class it.polimi.ingsw.server.Model.Enums.LevelEnum--><rect codeLine="40" fill="#FEFECE" filter="url(#f8n0jzzsqx1xb)" height="112.0234" id="it.polimi.ingsw.server.Model.Enums.LevelEnum" style="stroke:#A80036;stroke-width:1.5;" width="99" x="428.5" y="211.9426"/><ellipse cx="443.5" cy="227.9426" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M447.6094,234.4426 L439.8906,234.4426 L439.8906,221.4426 L447.6094,221.4426 L447.6094,223.7083 L442.3438,223.7083 L442.3438,226.4426 L447.1094,226.4426 L447.1094,228.7083 L442.3438,228.7083 L442.3438,232.177 L447.6094,232.177 L447.6094,234.4426 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="67" x="457.5" y="232.0969">LevelEnum</text><line style="stroke:#A80036;stroke-width:1.5;" x1="429.5" x2="526.5" y1="243.9426" y2="243.9426"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="32" x="434.5" y="258.1531">NONE</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="24" x="434.5" y="270.9578">ONE</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="37" x="434.5" y="283.7625">THREE</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="27" x="434.5" y="296.5671">TWO</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="27" x="434.5" y="309.3718">level</text><line style="stroke:#A80036;stroke-width:1.5;" x1="429.5" x2="526.5" y1="315.9661" y2="315.9661"/><!--MD5=[85f587d30f490b4e64f4551450423256]
+class it.polimi.ingsw.server.Model.Enums.MarbleEnum--><rect codeLine="57" fill="#FEFECE" filter="url(#f8n0jzzsqx1xb)" height="124.8281" id="it.polimi.ingsw.server.Model.Enums.MarbleEnum" style="stroke:#A80036;stroke-width:1.5;" width="108" x="111" y="390.4426"/><ellipse cx="126" cy="406.4426" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M130.1094,412.9426 L122.3906,412.9426 L122.3906,399.9426 L130.1094,399.9426 L130.1094,402.2083 L124.8438,402.2083 L124.8438,404.9426 L129.6094,404.9426 L129.6094,407.2083 L124.8438,407.2083 L124.8438,410.677 L130.1094,410.677 L130.1094,412.9426 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="76" x="140" y="410.5969">MarbleEnum</text><line style="stroke:#A80036;stroke-width:1.5;" x1="112" x2="218" y1="422.4426" y2="422.4426"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="29" x="117" y="436.6531">BLUE</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="32" x="117" y="449.4578">GRAY</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="43" x="117" y="462.2625">PURPLE</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="23" x="117" y="475.0671">RED</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="36" x="117" y="487.8718">WHITE</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="46" x="117" y="500.6765">YELLOW</text><line style="stroke:#A80036;stroke-width:1.5;" x1="112" x2="218" y1="507.2708" y2="507.2708"/><!--MD5=[61e2b70fc86cd1fbbb8a31d82e121482]
+class it.polimi.ingsw.server.Model.Enums.ResourceEnum--><rect codeLine="75" fill="#FEFECE" filter="url(#f8n0jzzsqx1xb)" height="137.6328" id="it.polimi.ingsw.server.Model.Enums.ResourceEnum" style="stroke:#A80036;stroke-width:1.5;" width="123" x="254.5" y="383.9426"/><ellipse cx="269.5" cy="399.9426" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M273.6094,406.4426 L265.8906,406.4426 L265.8906,393.4426 L273.6094,393.4426 L273.6094,395.7083 L268.3438,395.7083 L268.3438,398.4426 L273.1094,398.4426 L273.1094,400.7083 L268.3438,400.7083 L268.3438,404.177 L273.6094,404.177 L273.6094,406.4426 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="91" x="283.5" y="404.0969">ResourceEnum</text><line style="stroke:#A80036;stroke-width:1.5;" x1="255.5" x2="376.5" y1="415.9426" y2="415.9426"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="28" x="260.5" y="430.1531">COIN</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="32" x="260.5" y="442.9578">FAITH</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="31" x="260.5" y="455.7625">JOLLY</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="32" x="260.5" y="468.5671">NONE</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="53" x="260.5" y="481.3718">SERVANT</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="39" x="260.5" y="494.1765">SHIELD</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="38" x="260.5" y="506.9812">STONE</text><line style="stroke:#A80036;stroke-width:1.5;" x1="255.5" x2="376.5" y1="513.5754" y2="513.5754"/><!--MD5=[bcf663533772fa1b077b2d25b776d201]
+class it.polimi.ingsw.server.Model.Enums.TileStatusEnum--><rect codeLine="94" fill="#FEFECE" filter="url(#f8n0jzzsqx1xb)" height="86.4141" id="it.polimi.ingsw.server.Model.Enums.TileStatusEnum" style="stroke:#A80036;stroke-width:1.5;" width="127" x="412.5" y="409.9426"/><ellipse cx="427.5" cy="425.9426" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M431.6094,432.4426 L423.8906,432.4426 L423.8906,419.4426 L431.6094,419.4426 L431.6094,421.7083 L426.3438,421.7083 L426.3438,424.4426 L431.1094,424.4426 L431.1094,426.7083 L426.3438,426.7083 L426.3438,430.177 L431.6094,430.177 L431.6094,432.4426 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="95" x="441.5" y="430.0969">TileStatusEnum</text><line style="stroke:#A80036;stroke-width:1.5;" x1="413.5" x2="538.5" y1="441.9426" y2="441.9426"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="55" x="418.5" y="456.1531">COVERED</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="58" x="418.5" y="468.9578">OBTAINED</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="51" x="418.5" y="481.7625">THROWN</text><line style="stroke:#A80036;stroke-width:1.5;" x1="413.5" x2="538.5" y1="488.3567" y2="488.3567"/><!--MD5=[12648000a58003ca1c2150b0afcfeea0]
+class it.polimi.ingsw.server.Model.Enums.TypeEnum--><rect codeLine="109" fill="#FEFECE" filter="url(#f8n0jzzsqx1xb)" height="112.0234" id="it.polimi.ingsw.server.Model.Enums.TypeEnum" style="stroke:#A80036;stroke-width:1.5;" width="97" x="103.5" y="581.9426"/><ellipse cx="118.5" cy="597.9426" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M122.6094,604.4426 L114.8906,604.4426 L114.8906,591.4426 L122.6094,591.4426 L122.6094,593.7083 L117.3438,593.7083 L117.3438,596.4426 L122.1094,596.4426 L122.1094,598.7083 L117.3438,598.7083 L117.3438,602.177 L122.6094,602.177 L122.6094,604.4426 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="65" x="132.5" y="602.0969">TypeEnum</text><line style="stroke:#A80036;stroke-width:1.5;" x1="104.5" x2="199.5" y1="613.9426" y2="613.9426"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="29" x="109.5" y="628.1531">BLUE</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="39" x="109.5" y="640.9578">GREEN</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="32" x="109.5" y="653.7625">NONE</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="43" x="109.5" y="666.5671">PURPLE</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="46" x="109.5" y="679.3718">YELLOW</text><line style="stroke:#A80036;stroke-width:1.5;" x1="104.5" x2="199.5" y1="685.9661" y2="685.9661"/><!--MD5=[b18f0e97b40a68c7bc50f42648abdf00]
+class it.polimi.ingsw.server.Model.Enums.TypeLineEnum--><rect codeLine="126" fill="#FEFECE" filter="url(#f8n0jzzsqx1xb)" height="73.6094" id="it.polimi.ingsw.server.Model.Enums.TypeLineEnum" style="stroke:#A80036;stroke-width:1.5;" width="122" x="236" y="600.9426"/><ellipse cx="251" cy="616.9426" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M255.1094,623.4426 L247.3906,623.4426 L247.3906,610.4426 L255.1094,610.4426 L255.1094,612.7083 L249.8438,612.7083 L249.8438,615.4426 L254.6094,615.4426 L254.6094,617.7083 L249.8438,617.7083 L249.8438,621.177 L255.1094,621.177 L255.1094,623.4426 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="90" x="265" y="621.0969">TypeLineEnum</text><line style="stroke:#A80036;stroke-width:1.5;" x1="237" x2="357" y1="632.9426" y2="632.9426"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="23" x="242" y="647.1531">COL</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="28" x="242" y="659.9578">ROW</text><line style="stroke:#A80036;stroke-width:1.5;" x1="237" x2="357" y1="666.552" y2="666.552"/><!--MD5=[7fc8756d465e47517241100e94f180fb]
+class it.polimi.ingsw.server.Model.Enums.VaticanSectionEnum--><rect codeLine="140" fill="#FEFECE" filter="url(#f8n0jzzsqx1xb)" height="99.2188" id="it.polimi.ingsw.server.Model.Enums.VaticanSectionEnum" style="stroke:#A80036;stroke-width:1.5;" width="158" x="393" y="588.4426"/><ellipse cx="408" cy="604.4426" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M412.1094,610.9426 L404.3906,610.9426 L404.3906,597.9426 L412.1094,597.9426 L412.1094,600.2083 L406.8438,600.2083 L406.8438,602.9426 L411.6094,602.9426 L411.6094,605.2083 L406.8438,605.2083 L406.8438,608.677 L412.1094,608.677 L412.1094,610.9426 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="126" x="422" y="608.5969">VaticanSectionEnum</text><line style="stroke:#A80036;stroke-width:1.5;" x1="394" x2="550" y1="620.4426" y2="620.4426"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="31" x="399" y="634.6531">FIRST</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="32" x="399" y="647.4578">NONE</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="47" x="399" y="660.2625">SECOND</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="34" x="399" y="673.0671">THIRD</text><line style="stroke:#A80036;stroke-width:1.5;" x1="394" x2="550" y1="679.6614" y2="679.6614"/><!--MD5=[f23d5d3b0c17048e595fd299e4a73697]
+link it.polimi.ingsw.server.Model.Enums.ActionEnum to it.polimi.ingsw.server.Model.Enums.CellTypeEnum--><!--MD5=[d3ab4e2f1374db801dabecf44fd5af39]
+link it.polimi.ingsw.server.Model.Enums.CellTypeEnum to it.polimi.ingsw.server.Model.Enums.LevelEnum--><!--MD5=[843c4cfc6ebb06c0bc8b61b201967659]
+link it.polimi.ingsw.server.Model.Enums.ActionEnum to it.polimi.ingsw.server.Model.Enums.MarbleEnum--><!--MD5=[02fc00ea52b61941088b9b6bb0b3a701]
+link it.polimi.ingsw.server.Model.Enums.MarbleEnum to it.polimi.ingsw.server.Model.Enums.ResourceEnum--><!--MD5=[592900cecf8cd2a593a76e24f52c6ac5]
+link it.polimi.ingsw.server.Model.Enums.ResourceEnum to it.polimi.ingsw.server.Model.Enums.TileStatusEnum--><!--MD5=[dd242250dad419b8dd9f4074de4094ee]
+link it.polimi.ingsw.server.Model.Enums.MarbleEnum to it.polimi.ingsw.server.Model.Enums.TypeEnum--><!--MD5=[74696dd0d35d45e775966b2ebcdfc221]
+link it.polimi.ingsw.server.Model.Enums.TypeEnum to it.polimi.ingsw.server.Model.Enums.TypeLineEnum--><!--MD5=[200815936efa172d325132ce96edee7b]
+link it.polimi.ingsw.server.Model.Enums.TypeLineEnum to it.polimi.ingsw.server.Model.Enums.VaticanSectionEnum--><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="0" x="643" y="797.2249"/><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="0" x="643" y="808.8655"/><!--MD5=[7006b395da1912301f7bdcc641d67fc8]
+@startuml
+
+title __ENUMS's Class Diagram__\n
+
+  namespace it.polimi.ingsw {
+    namespace server {
+      namespace Model {
+        namespace Enums {
+          enum ActionEnum {
+            BUY_CARD
+            LEADER_ACTIVATION
+            PRODUCTION_POWER
+            RESOURCE_MARKET
+          }
+        }
+      }
+    }
+  }
+  
+
+  namespace it.polimi.ingsw {
+    namespace server {
+      namespace Model {
+        namespace Enums {
+          enum CellTypeEnum {
+            LAST
+            NORMAL
+            POPE_SPACE
+            VICTORY_POINTS
+          }
+        }
+      }
+    }
+  }
+  
+
+  namespace it.polimi.ingsw {
+    namespace server {
+      namespace Model {
+        namespace Enums {
+          enum LevelEnum {
+            NONE
+            ONE
+            THREE
+            TWO
+            level
+          }
+        }
+      }
+    }
+  }
+  
+
+  namespace it.polimi.ingsw {
+    namespace server {
+      namespace Model {
+        namespace Enums {
+          enum MarbleEnum {
+            BLUE
+            GRAY
+            PURPLE
+            RED
+            WHITE
+            YELLOW
+          }
+        }
+      }
+    }
+  }
+  
+
+  namespace it.polimi.ingsw {
+    namespace server {
+      namespace Model {
+        namespace Enums {
+          enum ResourceEnum {
+            COIN
+            FAITH
+            JOLLY
+            NONE
+            SERVANT
+            SHIELD
+            STONE
+          }
+        }
+      }
+    }
+  }
+  
+
+  namespace it.polimi.ingsw {
+    namespace server {
+      namespace Model {
+        namespace Enums {
+          enum TileStatusEnum {
+            COVERED
+            OBTAINED
+            THROWN
+          }
+        }
+      }
+    }
+  }
+  
+
+  namespace it.polimi.ingsw {
+    namespace server {
+      namespace Model {
+        namespace Enums {
+          enum TypeEnum {
+            BLUE
+            GREEN
+            NONE
+            PURPLE
+            YELLOW
+          }
+        }
+      }
+    }
+  }
+  
+
+  namespace it.polimi.ingsw {
+    namespace server {
+      namespace Model {
+        namespace Enums {
+          enum TypeLineEnum {
+            COL
+            ROW
+          }
+        }
+      }
+    }
+  }
+  
+
+  namespace it.polimi.ingsw {
+    namespace server {
+      namespace Model {
+        namespace Enums {
+          enum VaticanSectionEnum {
+            FIRST
+            NONE
+            SECOND
+            THIRD
+          }
+        }
+      }
+    }
+  }
+  
+
+
+
+right footer
+
+
+endfooter
+
+@enduml
+
+PlantUML version 1.2021.7(Sun May 23 14:40:07 CEST 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: Dynamic Code Evolution 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
